@@ -12,7 +12,6 @@ When I'm away from my desk, you can find me mountain biking, backpacking, sewing
 - 🔭 I’m currently working on: caching data with websockets!
 - 🌱 I’m currently learning: Redis, AWS, and Next.JS
 - 👯 I’m looking to collaborate on anything!  I've been enjoying back-end focused projects right now!
-- 📫 How to reach me: You can send me a ping to my [email](mailto:colin@cbassett.dev)!
 
 
 
